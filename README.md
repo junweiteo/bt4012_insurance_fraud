@@ -6,7 +6,8 @@ Files in order:
 3. Data Preprocessing with 'Preprocess.ipynb'
 4. Models:
   - AdaBoost.ipynb
-  - LightGBM.ipynb
+  - LinearDiscriminantAnalysis.ipynb
+  - LogisticRegression.ipynb
   - NeuralNetwork.ipynb
   - SVM.ipynb
   - Trees.ipynb
