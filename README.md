@@ -1,7 +1,7 @@
 # bt4012_insurance_fraud
 
 ## Introduction
-![alt text](https://github.com/junweiteo/bt4012_insurance_fraud/blob/master/misc/car_fraud_img.jpg.png?raw=true)
+![alt text](https://github.com/junweiteo/bt4012_insurance_fraud/blob/master/misc/car_fraud_img.jpg?raw=true)
 
 Insurance fraud steals at least $308.6 billion every year from American consumers. Out of which, auto insurance scams cause $29 billion of damage to auto insurers annually. Around 78% of American citizens worry about insurance fraud. Automotive insurance fraud involves someone deceiving an insurance company about a claim involving their personal or commercial motor vehicle. It can involve giving out misleading information or providing false documentation to support the claim.
 
