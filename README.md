@@ -11,9 +11,10 @@ Our project aims to act as a first line of defence to identify and flag out frau
 ## Files directory
 Files in order:
 1. Merge raw dataset with 'Merging datasets.ipynb'
-2. EDA (to edit)
-3. Data Preprocessing with 'Preprocess.ipynb'
-4. Models:
+2. Preliminary Exploratory Data Analysis with 'EDA Pandas Profiling.ipynb'
+3. In-depth Exploratory Data Analysis with 'Exploratory Data Analysis (EDA).ipynb'
+4. Data Preprocessing with 'Preprocess.ipynb'
+5. Models:
   - AdaBoost.ipynb
   - LinearDiscriminantAnalysis.ipynb
   - LogisticRegression.ipynb
