@@ -14,7 +14,8 @@ Files in order:
 2. Preliminary Exploratory Data Analysis with 'EDA Pandas Profiling.ipynb'
 3. In-depth Exploratory Data Analysis with 'Exploratory Data Analysis (EDA).ipynb'
 4. Data Preprocessing with 'Preprocess.ipynb'
-5. Models:
+5. Hypothesis testing using t-test to check for importance of new features our group created with 'HypothesisTesting.ipynb'
+6. Models:
   - AdaBoost.ipynb
   - LinearDiscriminantAnalysis.ipynb
   - LogisticRegression.ipynb
