@@ -1,4 +1,4 @@
-# bt4012_insurance_fraud
+# bt4012_insurance_fraud_group_09
 
 ## Introduction
 ![alt text](https://github.com/junweiteo/bt4012_insurance_fraud/blob/master/misc/car_fraud_img.jpg?raw=true)
